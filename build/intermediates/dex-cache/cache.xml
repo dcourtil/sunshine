@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1225a59d46dfc804236381ea29b609f49d84d536">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32a9c10ed375fa61b27fd6c57cdedee884eb184a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_1f43740c56272a1309d40cdaa84af05679822388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_bb549937c0560e7b43bc76fa011bdb1a09d33f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_290b37dc4348cd6b8b19f5465bb7b996bacba7fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8118b14434215b2cebdfc6c6c5cddac5bfecf898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_af440f37477fb2721535f7ed17492244f3555c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_dbd2009e3e895d0089cdca6bb72679c3bd36f3a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_feb96fc3d162b5d6ad2a0086be2fd4f8eec500ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_afc8816f48a4d59157d016627d42fd317789f899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_796482800d38781adf705aca0c47ec28144036f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_13eded9082da8c355573b47c37fd9ebae0d3176a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_30df5583d911a050116209fb3e3b5c643b97e056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ee6957d78c197ee42366dfd63511f971f2999aca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_45d6b2e92956fe168889055a68cf503a0b64dfd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2797ea2d0a56f5f3ac97f9900cf8729bce1dd13c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bd8d7cfd823c31481ec353523191733cdfbc1b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="66af37ded1e5a4b68900cf1bcf3932eefa0ad39a">
+        <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c92057baafe66c09a1f57a716fb0beefa7bcba9/classes.dex" />
+    </item>
+
+</items>
