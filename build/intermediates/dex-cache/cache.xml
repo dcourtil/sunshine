@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="1225a59d46dfc804236381ea29b609f49d84d536">
+        sha1="b2a21f5688d0ee94b8c160fa8d145f6f8175cc28">
         <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32a9c10ed375fa61b27fd6c57cdedee884eb184a/classes.dex" />
     </item>
     <item
