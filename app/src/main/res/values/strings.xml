@@ -17,14 +17,10 @@
     <string name="settings_location_default" translatable="false">94043</string>
 
     <string name="settings_temp_unit_title">Temperature Unit</string>
-    <string-array name="settings_temp_unit_entries">
-        <item>Metric</item>
-        <item>Imperial</item>
-    </string-array>
-    <string-array name="settings_temp_unit_values">
-        <item>metric</item>
-        <item>imperial</item>
-    </string-array>
+    <string name="settings_temp_unit_metric_entry">Metric</string>
+    <string name="settings_temp_unit_imperial_entry">Imperial</string>
+    <string name="settings_temp_unit_metric_value" translatable="false">metric</string>
+    <string name="settings_temp_unit_imperial_value" translatable="false">imperial</string>
     <string name="settings_temp_unit_key" translatable="false">temp_unit</string>
     <string name="settings_temp_unit_default" translatable="false">metric</string>
 
