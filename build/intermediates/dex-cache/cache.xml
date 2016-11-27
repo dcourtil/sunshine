@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b2a21f5688d0ee94b8c160fa8d145f6f8175cc28">
+        sha1="264be840cfe04fa0654d2261b72ef08481165a7f">
         <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32a9c10ed375fa61b27fd6c57cdedee884eb184a/classes.dex" />
     </item>
     <item
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="66af37ded1e5a4b68900cf1bcf3932eefa0ad39a">
+        sha1="f2c03fbfddb258e9e68b3e73f99d28f867827362">
         <dex dex="/home/dcourtil/dev/android-course/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c92057baafe66c09a1f57a716fb0beefa7bcba9/classes.dex" />
     </item>
 

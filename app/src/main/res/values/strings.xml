@@ -4,5 +4,17 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="android_icon">android icon</string>
-    <string name="refresh" translatable="false">Refresh</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Menu labels -->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Settings labels and constants -->
+    <string name="settings_location_title">Location</string>
+
+    <string name="settings_location_key" translatable="false">location</string>
+    <string name="settings_location_default" translatable="false">94043</string>
+
 </resources>
