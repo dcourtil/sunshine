@@ -91,8 +91,10 @@ public class ForecastFragment extends Fragment {
         if (networkInfo != null && networkInfo.isConnected()) {
             SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(this.getActivity());
             String postalCode = sharedPref.getString(getString(R.string.settings_location_key), getString(R.string.settings_location_default));
+            String tempUnit = sharedPref.getString(getString(R.string.settings_temp_unit_key),getString(R.string.settings_temp_unit_default));
             Log.d(LOG_TAG,"Postal Code: " + postalCode);
-            new FetchWeatherTask().execute(postalCode);
+            Log.d(LOG_TAG,"Temperature Unit: " + tempUnit);
+            new FetchWeatherTask().execute(postalCode, tempUnit);
         }
     }
 
@@ -141,7 +143,7 @@ public class ForecastFragment extends Fragment {
             final String DAYS_PARAM = "cnt";
             final String APPID_PARAM = "APPID";
             String postalCode = params[0];
-            String units = "metrics";
+            String units = params[1];
             String mode = "JSON";
 
             // params comes from the execute() call: params[0] is the url.

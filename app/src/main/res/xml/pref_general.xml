@@ -6,7 +6,13 @@
         android:defaultValue="@string/settings_location_default"
         android:inputType="text"
         android:singleLine="true">
-
     </EditTextPreference>
+    <ListPreference android:title="@string/settings_temp_unit_title"
+        android:dialogTitle="@string/settings_temp_unit_title"
+        android:key="@string/settings_temp_unit_key"
+        android:entries="@array/settings_temp_unit_entries"
+        android:entryValues="@array/settings_temp_unit_values"
+        android:defaultValue="@string/settings_temp_unit_default">
+    </ListPreference>
 
 </PreferenceScreen>

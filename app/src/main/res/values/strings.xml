@@ -13,8 +13,19 @@
 
     <!-- Settings labels and constants -->
     <string name="settings_location_title">Location</string>
-
     <string name="settings_location_key" translatable="false">location</string>
     <string name="settings_location_default" translatable="false">94043</string>
+
+    <string name="settings_temp_unit_title">Temperature Unit</string>
+    <string-array name="settings_temp_unit_entries">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="settings_temp_unit_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+    <string name="settings_temp_unit_key" translatable="false">temp_unit</string>
+    <string name="settings_temp_unit_default" translatable="false">metric</string>
 
 </resources>
